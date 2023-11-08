@@ -12,7 +12,7 @@ local k = import 'lib/karabiner.libsonnet';
 //------//
 
 {
-  title: 'Windows Shortcuts',
+  title: 'Ubuntu Shortcuts',
   rules: [
     // Navigation Keys
     k.rule('Insert (Ctrl) [+Terminal Emulators]',
@@ -96,6 +96,11 @@ local k = import 'lib/karabiner.libsonnet';
            k.input('return_or_enter', ['control', 'shift']),
            k.outputKey('return_or_enter', ['command', 'shift']),
            k.condition('unless', bundle.standard, file_paths.standard)),
+
+    k.rule('Alt+Tab (Option+tab)',
+          k.input('tab', ['option']),
+          k.outputKey('tab', ['command'])),
+
     // Modifier Keys
     k.rule('Win [Open Spotlight]',
            k.input('left_command', key_is_modifier=true),

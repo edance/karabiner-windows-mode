@@ -11,6 +11,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -58,6 +59,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -110,6 +112,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -157,6 +160,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -209,6 +213,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -258,6 +263,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -310,6 +316,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -363,6 +370,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -417,6 +425,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -466,6 +475,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -518,6 +528,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -571,6 +582,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -625,6 +637,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -677,6 +690,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -731,6 +745,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -783,6 +798,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -837,6 +853,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -889,6 +906,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -941,6 +959,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -993,6 +1012,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -1037,6 +1057,33 @@
          ]
       },
       {
+         "description": "Alt+Tab (Option+tab)",
+         "manipulators": [
+            {
+               "from": {
+                  "key_code": "tab",
+                  "modifiers": {
+                     "mandatory": [
+                        "option"
+                     ],
+                     "optional": [
+                        "any"
+                     ]
+                  }
+               },
+               "to": [
+                  {
+                     "key_code": "tab",
+                     "modifiers": [
+                        "command"
+                     ]
+                  }
+               ],
+               "type": "basic"
+            }
+         ]
+      },
+      {
          "description": "Win [Open Spotlight]",
          "manipulators": [
             {
@@ -1068,6 +1115,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -1120,6 +1168,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -1172,6 +1221,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -1264,6 +1314,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -1316,6 +1367,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -1348,6 +1400,46 @@
                "to": [
                   {
                      "key_code": "i",
+                     "modifiers": [
+                        "command"
+                     ]
+                  }
+               ],
+               "type": "basic"
+            }
+         ]
+      },
+      {
+         "description": "L (Ctrl) [Only Web Browsers]",
+         "manipulators": [
+            {
+               "conditions": [
+                  {
+                     "bundle_identifiers": [
+                        "^com\\.google\\.chrome$",
+                        "^com\\.google\\.Chrome$",
+                        "^org\\.mozilla\\.firefox$",
+                        "^org\\.mozilla\\.nightly$",
+                        "^com\\.brave\\.Browser$",
+                        "^com\\.apple\\.Safari$"
+                     ],
+                     "type": "frontmost_application_if"
+                  }
+               ],
+               "from": {
+                  "key_code": "l",
+                  "modifiers": {
+                     "mandatory": [
+                        "control"
+                     ],
+                     "optional": [
+                        "any"
+                     ]
+                  }
+               },
+               "to": [
+                  {
+                     "key_code": "l",
                      "modifiers": [
                         "command"
                      ]
@@ -1474,6 +1566,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -1526,6 +1619,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -1578,6 +1672,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -1630,6 +1725,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -1682,6 +1778,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -1734,6 +1831,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -1786,6 +1884,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -1838,6 +1937,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -1930,6 +2030,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -1982,6 +2083,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -2034,6 +2136,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -2086,6 +2189,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -2138,6 +2242,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -2187,6 +2292,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -2236,6 +2342,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -2285,6 +2392,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -2334,6 +2442,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -2383,6 +2492,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -2432,6 +2542,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -2481,6 +2592,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -2530,6 +2642,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -2579,6 +2692,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -2626,6 +2740,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -2678,6 +2793,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -2728,6 +2844,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -2777,6 +2894,7 @@
                         "^com\\.parallels\\.desktop\\.console$",
                         "^org\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
+                        "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
                         "^com\\.microsoft\\.VSCode$",
                         "^com\\.sublimetext\\.3$",
@@ -2849,5 +2967,5 @@
          ]
       }
    ],
-   "title": "Windows Shortcuts"
+   "title": "Ubuntu Shortcuts"
 }

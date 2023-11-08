@@ -6,7 +6,7 @@ If you'd like to contribute to this project, please check the [Contributing](#Co
 ## Installation
 Copy and paste the following URL into your browser window and Karabiner-Elements *should* ask to install the file:
 
-    karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/rux616/karabiner-windows-mode/master/json/windows_shortcuts.json
+    karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/edance/karabiner-windows-mode/master/json/windows_shortcuts.json
 
 ## List of Shortcuts
 First, a note about how these shortcuts are named in Karabiner-Elements. They follow the convention
