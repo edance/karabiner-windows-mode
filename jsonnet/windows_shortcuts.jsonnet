@@ -98,8 +98,8 @@ local k = import 'lib/karabiner.libsonnet';
            k.condition('unless', bundle.standard, file_paths.standard)),
 
     k.rule('Alt+Tab (Option+tab)',
-          k.input('tab', ['option']),
-          k.outputKey('tab', ['command'])),
+           k.input('tab', ['option']),
+           k.outputKey('tab', ['command'])),
 
     // Modifier Keys
     k.rule('Win [Open Spotlight]',
@@ -263,5 +263,22 @@ local k = import 'lib/karabiner.libsonnet';
            k.input('f4', ['control']),
            k.outputKey('w', ['command']),
            k.condition('if', ['^com\\.google\\.Chrome$'])),
+    // Window Management
+    k.rule('Super + Up -> Fullscreen',
+           k.input('up_arrow', ['command']),
+           k.outputKey('up_arrow', ['fn', 'control'])),
+
+    k.rule('Super + Right -> Right Half',
+           k.input('right_arrow', ['command']),
+           k.outputKey('right_arrow', ['fn', 'control'])),
+
+    k.rule('Super + Left -> Left Half',
+           k.input('left_arrow', ['command']),
+           k.outputKey('left_arrow', ['fn', 'control'])),
+
+    k.rule('K (Ctrl) [Only Slack]',
+           k.input('k', ['control']),
+           k.outputKey('k', ['command']),
+           k.condition('if', ['^com\\.slack\\.Slack$'])),
   ],
 }

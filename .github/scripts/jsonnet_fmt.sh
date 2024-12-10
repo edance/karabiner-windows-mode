@@ -1,7 +1,13 @@
 #!/usr/bin/env bash
 
-shopt -s globstar nullglob
+# Enable error handling
 set -eo pipefail
+
+# Try to enable globstar if available
+if ((BASH_VERSINFO[0] >= 4)); then
+    shopt -s globstar
+fi
+shopt -s nullglob
 
 error=0
 
