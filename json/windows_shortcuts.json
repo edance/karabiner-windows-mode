@@ -1418,6 +1418,7 @@
                      "bundle_identifiers": [
                         "^com\\.google\\.chrome$",
                         "^com\\.google\\.Chrome$",
+                        "^org\\.chromium\\.Chromium$",
                         "^org\\.mozilla\\.firefox$",
                         "^org\\.mozilla\\.nightly$",
                         "^com\\.brave\\.Browser$",

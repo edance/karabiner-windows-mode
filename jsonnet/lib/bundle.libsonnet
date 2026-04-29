@@ -55,6 +55,8 @@
     // Google Chrome
     '^com\\.google\\.chrome$',
     '^com\\.google\\.Chrome$',
+    // Chromium
+    '^org\\.chromium\\.Chromium$',
     // Mozilla Firefox
     '^org\\.mozilla\\.firefox$',
     '^org\\.mozilla\\.nightly$',
